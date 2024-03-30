@@ -1,0 +1,153 @@
+2024-03-29 23:12:01,267 - INFO - Scraping: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Product%20Management&location=San%20Francisco%20Bay%20Area&geoId=90000084&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=0
+2024-03-29 23:12:02,357 - INFO - Scraping: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Product%20Management&location=San%20Francisco%20Bay%20Area&geoId=90000084&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=25
+2024-03-29 23:12:03,342 - INFO - New job found and added: Vice President of Product Management, Workspace Platform
+2024-03-29 23:12:03,346 - INFO - Total jobs in database: 21
+2024-03-29 23:12:03,347 - INFO - New jobs added in this session: 0
+2024-03-29 23:12:03,347 - INFO - Timestamp: 2024-03-29 23:12:03.347979
+2024-03-29 23:13:02,671 - INFO - Scraping: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Product%20Management&location=San%20Francisco%20Bay%20Area&geoId=90000084&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=0
+2024-03-29 23:13:03,826 - INFO - Scraping: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Product%20Management&location=San%20Francisco%20Bay%20Area&geoId=90000084&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=25
+2024-03-29 23:13:04,139 - INFO - Total jobs in database: 21
+2024-03-29 23:13:04,139 - INFO - New jobs added in this session: 0
+2024-03-29 23:13:04,140 - INFO - Timestamp: 2024-03-29 23:13:04.140020
+2024-03-29 23:14:09,096 - INFO - Scraping: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Product%20Management&location=San%20Francisco%20Bay%20Area&geoId=90000084&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=0
+2024-03-29 23:14:10,549 - INFO - Scraping: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Product%20Management&location=San%20Francisco%20Bay%20Area&geoId=90000084&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=25
+2024-03-29 23:42:42,624 - INFO - Scraping: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Product%20Management&location=San%20Francisco%20Bay%20Area&geoId=90000084&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=0
+2024-03-29 23:42:43,791 - INFO - New job found and added: Product Management, Director
+2024-03-29 23:42:43,793 - INFO - Scraping: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Product%20Management&location=San%20Francisco%20Bay%20Area&geoId=90000084&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=25
+2024-03-29 23:42:44,867 - INFO - New job found and added: Product Management, Director (Threads Growth)
+2024-03-29 23:42:44,873 - INFO - Total jobs in database: 23
+2024-03-29 23:47:25,069 - INFO - Scraping: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Product%20Management&location=San%20Francisco%20Bay%20Area&geoId=90000084&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=0
+2024-03-29 23:47:26,200 - INFO - Scraping: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Product%20Management&location=San%20Francisco%20Bay%20Area&geoId=90000084&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=25
+2024-03-29 23:47:27,296 - INFO - Total jobs in database: 23
+2024-03-29 23:48:49,893 - INFO - Scraping: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Product%20Management&location=San%20Francisco%20Bay%20Area&geoId=90000084&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=0
+2024-03-29 23:48:51,233 - INFO - Scraping: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Product%20Management&location=San%20Francisco%20Bay%20Area&geoId=90000084&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=250
+2024-03-29 23:48:52,291 - INFO - New job found and added: Senior Manager / Director, Business Development and Partner Management
+2024-03-29 23:48:52,293 - INFO - New job found and added: Director of Product Management
+2024-03-29 23:48:52,293 - INFO - New job found and added: Group Product Manager
+2024-03-29 23:48:52,294 - INFO - New job found and added: VP of Product Marketing
+2024-03-29 23:48:52,294 - INFO - New job found and added: Associate Director, Digital - Web Development
+2024-03-29 23:48:52,296 - INFO - New job found and added: Sr. Director, Product Design
+2024-03-29 23:48:52,297 - INFO - New job found and added: Director of Sales
+2024-03-29 23:48:52,298 - INFO - New job found and added: Head of Engineering
+2024-03-29 23:48:52,299 - INFO - New job found and added: Strategy and Operations Manager, Creative Product Marketing
+2024-03-29 23:48:52,300 - INFO - New job found and added: Chief of Staff
+2024-03-29 23:48:52,308 - INFO - Total jobs in database: 33
+2024-03-30 08:06:22,361 - INFO - Scraping: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Product%20Management&location=San%20Francisco%20Bay%20Area&geoId=90000084&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=0
+2024-03-30 08:06:23,616 - INFO - New job found and added: DEX Product Owner
+2024-03-30 08:06:23,617 - INFO - Scraping: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Product%20Management&location=San%20Francisco%20Bay%20Area&geoId=90000084&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=250
+2024-03-30 08:06:24,569 - INFO - New job found and added: Product Designer
+2024-03-30 08:06:24,572 - INFO - New job found and added: GM/ Head of International DashPass
+2024-03-30 08:06:24,573 - INFO - New job found and added: Business Engineering Manager
+2024-03-30 08:06:24,573 - INFO - New job found and added: Head of Product
+2024-03-30 08:06:24,575 - INFO - New job found and added: Product Support Manager
+2024-03-30 08:06:24,580 - INFO - Total jobs in database: 39
+2024-03-30 08:52:00,067 - INFO - Scraping: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Product%20Management&location=San%20Francisco%20Bay%20Area&geoId=90000084&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=0
+2024-03-30 08:52:01,042 - INFO - Scraping: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Product%20Management&location=San%20Francisco%20Bay%20Area&geoId=90000084&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=250
+2024-03-30 08:52:01,893 - INFO - New job found and added: Director, Business Development
+2024-03-30 08:52:01,895 - INFO - New job found and added: Store Director
+2024-03-30 08:52:01,898 - INFO - New job found and added: Senior Manager / GM, New Verticals - Gift Cards Strategy & Operations
+2024-03-30 08:52:01,899 - INFO - New job found and added: Group Manager Product Management - Monetization Services and Experiences
+2024-03-30 08:52:01,901 - INFO - New job found and added: Learning Management & Experience Platform Product Manager
+2024-03-30 08:52:01,902 - INFO - New job found and added: Data Science Manager, Analytics
+2024-03-30 08:52:01,904 - INFO - New job found and added: Data Science Manager, Analytics
+2024-03-30 08:52:01,905 - INFO - New job found and added: Product Manager - EV Batteries!
+2024-03-30 08:52:01,907 - INFO - Total jobs in database: 47
+2024-03-30 09:01:02,101 - INFO - Scraping: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Product%20Management&location=San%20Francisco%20Bay%20Area&geoId=90000084&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=0
+2024-03-30 09:01:02,994 - INFO - Scraping: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Product%20Management&location=San%20Francisco%20Bay%20Area&geoId=90000084&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=250
+2024-03-30 09:01:03,909 - INFO - Total jobs in database: 47
+2024-03-30 09:01:21,468 - INFO - Scraping: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Product%20Management&location=San%20Francisco%20Bay%20Area&geoId=90000084&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=0
+2024-03-30 09:01:22,438 - INFO - Scraping: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Product%20Management&location=San%20Francisco%20Bay%20Area&geoId=90000084&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=300
+2024-03-30 09:01:22,868 - INFO - Total jobs in database: 47
+2024-03-30 09:01:51,150 - INFO - Scraping: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Product%20Management&location=San%20Francisco%20Bay%20Area&geoId=90000084&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=0
+2024-03-30 09:01:52,138 - INFO - Scraping: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Product%20Management&location=San%20Francisco%20Bay%20Area&geoId=90000084&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=500
+2024-03-30 09:01:53,046 - INFO - New job found and added: Group Product Manager
+2024-03-30 09:01:53,047 - INFO - New job found and added: Research Manager
+2024-03-30 09:01:53,049 - INFO - New job found and added: Regional Manager - San Francisco Bay Area
+2024-03-30 09:01:53,051 - INFO - New job found and added: Senior Software Product Owner - Distributed Energy Resource Programs (Remote - US)
+2024-03-30 09:01:53,052 - INFO - New job found and added: Sr. Manager, Production Operations
+2024-03-30 09:01:53,054 - INFO - New job found and added: Director, Large Partners and Segment Go-to-Market
+2024-03-30 09:01:53,056 - INFO - New job found and added: Remote Director of Sales - (K-12 Sales)
+2024-03-30 09:01:53,057 - INFO - New job found and added: Director of Professional Services
+2024-03-30 09:01:53,058 - INFO - New job found and added: Learning Management & Experience Platform Product Manager
+2024-03-30 09:01:53,060 - INFO - New job found and added: Brand Executive
+2024-03-30 09:01:53,062 - INFO - Total jobs in database: 57
+2024-03-30 09:03:18,419 - INFO - Scraping: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Product%20Management&location=San%20Francisco%20Bay%20Area&geoId=90000084&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=0
+2024-03-30 09:03:18,758 - INFO - Scraping: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Product%20Management&location=San%20Francisco%20Bay%20Area&geoId=90000084&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=600
+2024-03-30 09:03:19,192 - INFO - Total jobs in database: 57
+2024-03-30 09:04:03,868 - INFO - Scraping: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Product%20Management&location=San%20Francisco%20Bay%20Area&geoId=90000084&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=0
+2024-03-30 09:04:04,744 - INFO - Scraping: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Product%20Management&location=San%20Francisco%20Bay%20Area&geoId=90000084&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=700
+2024-03-30 09:04:05,877 - INFO - New job found and added: Vice President Worldwide Sales
+2024-03-30 09:04:05,881 - INFO - New job found and added: Director, Product Marketing - IT Automation - Remote | WFH
+2024-03-30 09:04:05,882 - INFO - New job found and added: Director of Financial Planning and Analysis (EV industry)
+2024-03-30 09:04:05,883 - INFO - New job found and added: Senior GTM Strategy & Operations Manager
+2024-03-30 09:04:05,884 - INFO - New job found and added: Sr. Director- Audience, Insights & Measurements
+2024-03-30 09:04:05,886 - INFO - New job found and added: Technical Manager, Clinical QA
+2024-03-30 09:04:05,887 - INFO - New job found and added: Technical Manager, Clinical QA
+2024-03-30 09:04:05,888 - INFO - New job found and added: Director, Data Science - Monetization Infrastructure
+2024-03-30 09:04:05,890 - INFO - New job found and added: Sr. Director, Product Management
+2024-03-30 09:04:05,892 - INFO - New job found and added: Manager, Strategic Partnerships
+2024-03-30 09:04:05,899 - INFO - Total jobs in database: 67
+2024-03-30 09:10:20,990 - INFO - Scraping: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Product%20Management&location=San%20Francisco%20Bay%20Area&geoId=90000084&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=0
+2024-03-30 09:10:22,184 - INFO - Scraping: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Product%20Management&location=San%20Francisco%20Bay%20Area&geoId=90000084&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=700
+2024-03-30 09:10:23,262 - INFO - New job found and added: Chief Operating Officer
+2024-03-30 09:10:23,263 - INFO - New job found and added: Director of Sales
+2024-03-30 09:10:23,274 - INFO - Total jobs in database: 69
+2024-03-30 09:10:33,470 - INFO - "GET /?state=CvLvQGASK5DDnngOzC1XxNelJgkvff&code=4/0AeaYSHCLEIHWde3EMb-SRhv-1ZnXXXdVJ9TVxG-JqGfJSMYrY9AEKvm2b_RVjIYSxJoBcg&scope=https://www.googleapis.com/auth/gmail.send HTTP/1.1" 200 65
+2024-03-30 09:10:33,671 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-03-30 09:11:03,509 - INFO - Scraping: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Product%20Management&location=San%20Francisco%20Bay%20Area&geoId=90000084&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=0
+2024-03-30 09:11:04,428 - INFO - Scraping: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Product%20Management&location=San%20Francisco%20Bay%20Area&geoId=90000084&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=700
+2024-03-30 09:11:05,439 - INFO - Total jobs in database: 69
+2024-03-30 09:11:25,248 - INFO - Scraping: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Product%20Management&location=San%20Francisco%20Bay%20Area&geoId=90000084&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=0
+2024-03-30 09:11:26,228 - INFO - Scraping: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Product%20Management&location=San%20Francisco%20Bay%20Area&geoId=90000084&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=800
+2024-03-30 09:11:27,255 - INFO - New job found and added: District Manager
+2024-03-30 09:11:27,257 - INFO - New job found and added: Head of Product Marketing
+2024-03-30 09:11:27,258 - INFO - New job found and added: Vice President, Digital Experience and Platforms
+2024-03-30 09:11:27,259 - INFO - New job found and added: SVP, Public Relations
+2024-03-30 09:11:27,260 - INFO - New job found and added: Senior Engineering Manager - Remote
+2024-03-30 09:11:27,261 - INFO - New job found and added: Senior Technical Manager-Polymers/Dyes/Inks/Coatings/Plastics
+2024-03-30 09:11:27,262 - INFO - New job found and added: Head of AI
+2024-03-30 09:11:27,264 - INFO - New job found and added: Senior Program Manager, TPO Financing
+2024-03-30 09:11:27,265 - INFO - New job found and added: Director, Technical Program Management AI/ML- (Remote- Eligible)
+2024-03-30 09:11:27,267 - INFO - New job found and added: Director, Strategic Partnerships
+2024-03-30 09:11:27,270 - INFO - Total jobs in database: 79
+2024-03-30 09:11:36,221 - INFO - "GET /?state=Ycsl4OrTHjnPsw4SPgqVdghgfFZaOA&code=4/0AeaYSHDIE11or7nqAiVJURtwlbdSZnUZSjUU3xDwH7a6i6Pm9dIE4eScupdd7sPfHs1GFw&scope=https://www.googleapis.com/auth/gmail.send HTTP/1.1" 200 65
+2024-03-30 09:11:36,416 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-03-30 09:27:06,737 - INFO - Scraping: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Product%20Management&location=San%20Francisco%20Bay%20Area&geoId=90000084&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=0
+2024-03-30 09:27:43,001 - INFO - Scraping: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Product%20Management&location=San%20Francisco%20Bay%20Area&geoId=90000084&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=0
+2024-03-30 09:27:44,071 - INFO - Scraping: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Product%20Management&location=San%20Francisco%20Bay%20Area&geoId=90000084&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=900
+2024-03-30 09:27:45,075 - INFO - New job found and added: Director, Software Product Management
+2024-03-30 09:27:45,077 - INFO - New job found and added: N.W. Regional Sales Director, Life and related products - Remote | WFH
+2024-03-30 09:27:45,079 - INFO - New job found and added: Head of Customer Support
+2024-03-30 09:27:45,080 - INFO - New job found and added: Chief Revenue Officer
+2024-03-30 09:27:45,082 - INFO - New job found and added: Director of Sales Enablement
+2024-03-30 09:27:45,083 - INFO - New job found and added: Senior Manager Vision Product Engineering
+2024-03-30 09:27:45,085 - INFO - New job found and added: Senior Director, Pharmaceutical Development
+2024-03-30 09:27:45,087 - INFO - New job found and added: SVP, Global Operations Construction Management
+2024-03-30 09:27:45,088 - INFO - New job found and added: Lead UXR Manager, FAIR
+2024-03-30 09:27:45,089 - INFO - New job found and added: Chief Operating Officer
+2024-03-30 09:27:45,092 - INFO - Total jobs in database: 89
+2024-03-30 09:27:56,138 - INFO - "GET /?state=DwhNM6I0OmZQYgOdGR5q1E3Vf4ToWm&code=4/0AeaYSHCA7vl83iVu9v-HqJiTCheCOfrgfsiLlcq5aZBhTycXKo1UCLCfPVrYdTwJm_f2mA&scope=https://www.googleapis.com/auth/gmail.send HTTP/1.1" 200 65
+2024-03-30 09:27:56,389 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-03-30 09:28:42,329 - INFO - Scraping: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Product%20Management&location=San%20Francisco%20Bay%20Area&geoId=90000084&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=0
+2024-03-30 09:28:43,247 - INFO - Scraping: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Product%20Management&location=San%20Francisco%20Bay%20Area&geoId=90000084&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=900
+2024-03-30 09:28:44,224 - INFO - New job found and added: Director, Business Development – AI/ML, GenAI (AI2303)
+2024-03-30 09:28:44,226 - INFO - New job found and added: Manager 2 Development
+2024-03-30 09:28:44,232 - INFO - New job found and added: Director of Product Management - Programming Models
+2024-03-30 09:28:44,233 - INFO - New job found and added: Vice President - Fund Banking - Innovation Banking
+2024-03-30 09:28:44,235 - INFO - New job found and added: Director of Global Payment (Remote)
+2024-03-30 09:28:44,236 - INFO - New job found and added: Director, Enterprise Software Relationship Banking
+2024-03-30 09:28:44,238 - INFO - New job found and added: Senior Director, Product Marketing
+2024-03-30 09:28:44,239 - INFO - New job found and added: Lead UXR Manager, FAIR
+2024-03-30 09:28:44,241 - INFO - New job found and added: Retail Director (Sports & Entertainment)
+2024-03-30 09:28:44,242 - INFO - New job found and added: Director, Business Development (Pharma)
+2024-03-30 09:28:44,252 - INFO - Total jobs in database: 99
+2024-03-30 09:28:53,909 - INFO - "GET /?state=arKL3MRCFMhOWRwC1az2S3qGJs6P8a&code=4/0AeaYSHBvBvC6uiCQgwi8B_XPUy6jSDsmh5R6p9VitxsE-oDXjn7oY9BU_-gxYJfHT6klKw&scope=https://www.googleapis.com/auth/gmail.send HTTP/1.1" 200 65
+2024-03-30 09:28:54,098 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-03-30 09:41:11,016 - INFO - Scraping: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Product%20Management&location=San%20Francisco%20Bay%20Area&geoId=90000084&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=0
+2024-03-30 09:41:12,064 - INFO - Scraping: https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Product%20Management&location=San%20Francisco%20Bay%20Area&geoId=90000084&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0&start=900
+2024-03-30 09:41:13,105 - INFO - New job found and added: Vice President, Strategic Finance & FP&A
+2024-03-30 09:41:13,106 - INFO - New job found and added: Manager, Product Management
+2024-03-30 09:41:13,107 - INFO - New job found and added: Director, Alliances (Salesforce)
+2024-03-30 09:41:13,110 - INFO - Total jobs in database: 102
+2024-03-30 09:41:23,984 - INFO - "GET /?state=PxwcAfhprvTVzyCJr2vMdC7svPEEt2&code=4/0AeaYSHDEsVVmTXzof8x1uubdwwnVlKSbWkQ2D4CbQ51cIkB5QGRo6AlpIxnG60iQ0D1Csg&scope=https://www.googleapis.com/auth/gmail.send HTTP/1.1" 200 65
+2024-03-30 09:41:24,267 - INFO - file_cache is only supported with oauth2client<4.0.0
